@@ -3,35 +3,35 @@ var countStartNumber = 30;
 
 // Question set
 var questions = [{
-  question: "What happened first in Vault 111?",
-  answers: ["You were cryo-frozen", "You are killed", "You go to your room and talk to the family", "You died outside and never went inside the vault in the first place."],
-  correctAnswer: "You were cryo-frozen",
-  image: "assets/Cryo pod .jpg"
+  question: "Who was the leader that unified Germany with the end of of the Franco-Prussian War?",
+  answers: ["Otto von Bismarck", "Napoleon III", "Klemens von Metternich", "Tsar Alexander II"],
+  correctAnswer: "Otto von Bismarck",
+  image: "assets/Otto von Bismarck.jpeg"
 }, {
-    question: "What is the best weapon in Fallout 4?",
-    answers: ["Laser Rifle", "Aeternus (Unique Gatling Laser)", ".44 Magnum", "Combat Shotgun"],
-    correctAnswer: "Aeternus (Unique Gatling Laser)",
-    image: "assets/Aeternus.jpg"
+    question: "Who wrote the book series, a Song of Ice and Fire?",
+    answers: ["Stephen King", "George RR. Martin", "J. K. Rowling", "Arthur Miller"],
+    correctAnswer: "George RR. Martin",
+    image: "assets/george_rr_martin_photo_mark_davis_wireimage_via_getty_images_164117282_resized.jpg"
 }, {
-  question: "What faction uses power armor and keeps technology for themselves?",
-  answers: ["Brotherhood of Steel", "The Railroad", "The Minutemen", "The Institute"],
-  correctAnswer: "Brotherhood of Steel",
-  image: "assets/Brotherhood of Steel.png"
+  question: "In football, how many points is a field goal?",
+  answers: ["3", "6", "1", "5"],
+  correctAnswer: "3",
+  image: "assets/download.jpeg"
 }, {
-  question: "What group of people stole your son in Vault 111?",
-  answers: ["Super Muntants", "The Institute", "Raider", "The Gunners"],
-  correctAnswer: "The Institute",
-  image: "assets/The institute.jpeg"
+  question: "What is known as the first modern war?",
+  answers: ["The War of 1812", "World War 1", "The Crimean War", "The Franco-Prussian War"],
+  correctAnswer: "The Crimean War",
+  image: "assets/GettyImages-50691729-498bde0.jpg"
 }, {
-  question: "Which group is known for their muntant hounds?",
-  answers: ["Super Mutants", "Raiders", "Minutemen", "Gunners"],
-  correctAnswer: "Super Mutants",
-  image: "assets/Super Mutant.jpeg"
+  question: "In chemistry, what sub-atomic particles are inside of the nucleus of an atom?",
+  answers: ["protons and electrons", "electrons and neutrons", "protons and neutrons", "protons, neutrons & electrons"],
+  correctAnswer: "protons and neutrons",
+  image: "assets/ia5fNqqTYuAiui2rX0No_atom.jpg"
 }, {
-  question: "Which of these are not companions you can not have?",
-  answers: ["Cait", "Dogmeat", "Javier", "Preston Garvey"],
-  correctAnswer: "Javier",
-  image: "assets/Fallout 4 Companions.jpg"
+  question: "Which art movement put an emphasis on geometric shapes to make figures?",
+  answers: ["Impressionism", "Realism", "Cubism", "Post-Impressionism"],
+  correctAnswer: "Cubism",
+  image: "assets/Picasso-Nude-armchair-1909.jpg"
 }];
 
 
